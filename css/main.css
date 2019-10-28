@@ -22,15 +22,18 @@ html {
 
 .link-cards p {
   color: #785439;
+  font-size: 1rem;
 }
 
 .link-cards h1 {
   font-family: Dosis, sans-serif;
   color: #512200;
+  font-size: 1.5rem;
 }
 
 .link-cards ul {
   list-style-type: none;
   color: #785439;
   font-weight: bold;
+  font-size: .875rem;
 }
