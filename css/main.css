@@ -11,7 +11,7 @@ html {
 
 .link-cards {
   display: inline-block;
-  margin: 0 .5em 1em;
+  margin: 0 0 1rem;
   max-width: 20em;
   padding: 1rem;
   background-color: #dcd4cd;
