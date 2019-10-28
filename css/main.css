@@ -19,3 +19,8 @@ html {
   border-radius: 10px;
   text-align: left;
 }
+
+.link-cards p {
+  font-family: Dosis, serif;
+  color: #785439;
+}
