@@ -28,3 +28,9 @@ html {
   font-family: Dosis, sans-serif;
   color: #512200;
 }
+
+.link-cards ul {
+  list-style-type: none;
+  color: #785439;
+  font-weight: bold;
+}
