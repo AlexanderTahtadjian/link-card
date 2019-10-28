@@ -23,3 +23,8 @@ html {
 .link-cards p {
   color: #785439;
 }
+
+.link-cards h1 {
+  font-family: Dosis, sans-serif;
+  color: #512200;
+}
