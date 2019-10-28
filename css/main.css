@@ -31,7 +31,7 @@ html {
   font-size: 1.5rem;
 }
 
-.link-cards ul {
+.link-cards dl {
   list-style-type: none;
   color: #785439;
   font-weight: bold;
