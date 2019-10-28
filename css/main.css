@@ -37,3 +37,7 @@ html {
   font-weight: bold;
   font-size: .875rem;
 }
+
+.link-cards dd {
+  font-style: italic;
+}
