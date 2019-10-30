@@ -32,6 +32,7 @@ html {
 .link-card p {
   color: #785439;
   font-size: 1rem;
+  margin-top: 0;
 }
 
 .link-card h2 {
