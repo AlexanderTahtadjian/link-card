@@ -50,6 +50,14 @@ html {
 
 .link-card dd {
   font-style: italic;
+  display: inline-block;
+  margin: 0;
+  width: 45%;
+}
+
+.link-card dt {
+  display: inline-block;
+  width: 45%;
 }
 
 nav {
