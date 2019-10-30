@@ -50,12 +50,12 @@ nav {
 
 a {
   font-family: Dosis, sans-serif;
-  list-style-type: none;
+  font-style: normal;
   margin: 1rem 0 0;
   padding: .4em .75em .5em;
   color: #f0eee8;
   background-color: #785439;
   border-radius: 8px;
   text-align: center;
-
+  text-decoration: none;
 }
