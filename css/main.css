@@ -11,6 +11,7 @@ html {
 
 .link-card {
   display: inline-block;
+  text-decoration: none;
   margin: 0 0 1rem;
   max-width: 20em;
   padding: 1rem;
@@ -21,7 +22,11 @@ html {
 }
 
 .link-card:hover {
-  color: #cabdb2;
+  background-color: #cabdb2;
+}
+
+.link-card:hover .btn {
+  background-color: #512200;
 }
 
 .link-card p {
@@ -52,14 +57,19 @@ nav {
   border-bottom: 2px solid #9a816d;
 }
 
-a {
+.btn-wrap {
+  padding-top: 1rem;
+  text-align: center;
+}
+
+.btn {
   font-family: Dosis, sans-serif;
   font-style: normal;
+  font-weight: bold;
   margin: 1rem 0 0;
   padding: .4em .75em .5em;
   color: #f0eee8;
   background-color: #785439;
   border-radius: 8px;
   text-align: center;
-  text-decoration: none;
 }
